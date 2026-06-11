@@ -1,8 +1,7 @@
 # 🤖 Otimização de Modelos de Classificação com Machine Learning
 
-[![GitHub Repo](https://shields.io)](https://github.com)
-[![Profile](https://shields.io)](https://github.com)
-[![Python](https://shields.io)](https://python.org)
+![Python](https://shields.io) ![v1.0.0](https://shields.io)
+
 
 Este é um projeto prático de Machine Learning focado no desenvolvimento, otimização de hiperparâmetros e validação robusta de pipelines para problemas de classificação, garantindo um código livre de viés de seleção.
 
